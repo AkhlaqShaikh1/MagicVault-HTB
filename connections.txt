@@ -1,0 +1,10 @@
+{
+    "PrivateKey": "0xa678b55d72a391a19805b60835775e684c880860c7a154ad20cc5dbc29727fff",
+    "Address": "0x475AC1F67C1D8623e8227A7A33B5267cd1EBc47c",
+    "TargetAddress": "0x55ebc31eF710D4d6f155C30b7afD75AF1edF1F03",
+    "setupAddress": "0x22137FB0b0ce9bf31b5AE265058be568336c9faE"
+}
+
+
+http://159.65.24.125:31576/rpc
+
